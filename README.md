@@ -8,3 +8,6 @@ Análise da evolução do número de leitos hospitalares no estado de GO feita e
 
 - Instale as dependências:
 <code>pip install -r /path/to/requirements.txt</code>
+
+### Visualização no tempo do número de leitos por município entre os anos de 2020 a 2022
+<img src="graph.png" alt="gráfico" width="1000"/>
